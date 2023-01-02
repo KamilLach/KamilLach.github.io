@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Kamil Lach | Blog</title>
-    <link>https://kamillach.io/</link>
-    <description>Recent content in Home on Kamil Lach | Blog</description>
+    <title>emoji on Kamil Lach | Blog</title>
+    <link>https://kamillach.io/tags/emoji/</link>
+    <description>Recent content in emoji on Kamil Lach | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Jan 2023 11:28:22 +0100</lastBuildDate><atom:link href="https://kamillach.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 12:54:28 +0100</lastBuildDate><atom:link href="https://kamillach.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my page</title>
       <link>https://kamillach.io/posts/hellp/</link>
